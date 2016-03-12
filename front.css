@@ -1,0 +1,122 @@
+.outer
+{
+  border:0px solid hidden;
+  width:100%;
+  height:auto;
+  position:relative;
+  background:url(../img/Middle_texture.jpg) repeat-x repeat-y;
+}  
+
+.title
+{
+  border:1px solid hidden;
+  width:1000px;
+  height:80px;
+  margin:0px auto;
+  color:#000000;
+  text-align:center;
+  font-size:50px;
+  padding-top:20px;
+  font-family:"Times New Roman";
+  position:relative;
+}  
+
+.img
+{
+  border:1px solid hidden;
+  width:100px;
+  height:25px;
+  float:left;
+  margin-left:870px;
+  margin-top:-78px;
+  position:relative;
+}  
+
+.log
+{
+  border:1px solid hidden;
+  width:1000px;
+  height:60px;
+  margin:0px auto;
+  color:#000014;
+  background-color: #00CCFF;
+  text-align:center;
+  font-size:36px;  
+  font-family:"Times New Roman";
+  position:relative;
+}
+
+.reg
+{
+  border:0px solid hidden;
+  width:80px;
+  height:35px;
+  color:#000000;
+  float:left;
+  background-color:#000000;
+  font-size:29px;
+  margin-left:800px;
+  cursor:pointer;
+  font-style:italic;
+  text-align:center;
+  padding-top:5px;
+  position:relative;
+}
+
+
+.main
+{
+  border:1px solid hidden;
+  width:1000px;
+  height:400px;
+  margin:0px auto;
+  margin-top:40px;	
+}
+
+.desc
+{
+ border:1px solid hidden;
+ width:1000px;
+ height: 30px;
+ position:relative;
+ margin:0px auto;
+ margin-top:110px;
+ color:#000099;
+ font-size:30px;
+ text-align:justify;
+  
+}
+.desc1
+{
+ border:1px solid hidden;
+ width:980px;
+ height: 200px;
+ position:relative;
+ margin:0px auto;
+ margin-top:10px;
+ color:#000000;
+ font-size:20px;
+ text-align:justify;
+ padding-right:10px;
+ padding-left:10px;
+ text-indent:120px;
+}
+
+
+
+
+.menu
+{
+  border:0px solid #000000;
+  width:140px;
+  height:55px;
+  color:#000000;
+  float:left;
+  font-size:19px;
+  padding-top:14px;
+  margin-top:10px;
+  cursor:pointer;
+  font-style:italic;
+  text-align:center;
+}
+

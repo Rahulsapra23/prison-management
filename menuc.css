@@ -1,0 +1,98 @@
+.outer
+{
+  border:0px solid #000000 ;
+  width:100%;
+  height:auto;
+
+}
+
+.top
+{
+  border:0px solid #000000;
+  width:1000px;
+  height:150px;
+  margin:0px auto;
+}    
+
+
+.menu
+{
+  border:0px solid #000000;
+  width:150px;
+  height:55px;
+  color:#000000;
+  float:left;
+  font-size:19px;
+  padding-top:14px;
+  margin-top:60px;
+  cursor:pointer;
+  font-style:italic;
+  text-align:center;
+}
+
+.menu:hover
+{
+  color:#FFFFFF;
+  text-decoration:underline;
+  background-color:#CC0000;
+}  
+
+
+.inner_logo
+{ 
+  border:0px solid black;
+  width:222px;
+  height:120px;
+  font:"Courier New", Courier, monospace;
+  font-size:28px;
+  font-style:italic;
+  float:left;
+  text-align:center;
+  padding-top:30px;
+  color:#FFFFFF;
+  cursor:pointer;
+  padding-left:18px;
+}
+  
+.photos
+{
+ border:0px solid #000000;
+ margin:0px auto;
+ width:1000px;
+ height:300px;
+
+}
+
+.about
+{
+  border:#000000 0px solid;
+  margin:0px auto;
+  width:1000px;
+  height:2000px;
+  font-size:22px;
+  padding-top:30px;
+  color:#000000;
+  margin-top:2px;
+  font-family:"Monotype Corsiva";
+}  
+
+.footer
+{
+  border:0px solid #000000;
+  width:1000px;
+  height:30px;
+  color:#333333;
+  margin:0px auto;
+  padding-top:20px;
+}
+
+.image
+{
+ border:1px solid #000000;
+  width:400px;
+  height:400px;
+  margin-left:300px;
+ } 
+ 
+  /* CSS Document */
+
